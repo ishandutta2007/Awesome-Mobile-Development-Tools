@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Mobile-Development-Tools/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Mobile-Development-Tools?style=flat-square&logo=github&color=gold" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Mobile-Development-Tools/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Mobile-Development-Tools?style=flat-square&logo=github&color=gold" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Mobile-Development-Tools/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Mobile-Development-Tools?style=flat-square&logo=github&color=blue" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Mobile-Development-Tools/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Mobile-Development-Tools?style=flat-square&color=brightgreen" alt="License" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Mobile-Development-Tools/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome" /></a>
@@ -64,7 +64,7 @@ The table below catalogs premier SaaS and hosted cloud platforms for mobile engi
 
 ## 🛠️ Open-Source Ecosystem
 
-The open-source mobile development ecosystem powers modern client architectures worldwide. Every repository below is **sorted in descending order by GitHub Stars**, and includes a live social star badge linking directly to the project's stargazers page.
+The open-source mobile development ecosystem powers modern client architectures worldwide. Every repository below is **sorted in descending order by GitHub_Stars**, and includes a live social Stars_Badge linking directly to the project's stargazers page.
 
 1. **[Flutter](https://github.com/flutter/flutter)** [![Flutter Stars](https://img.shields.io/github/stars/flutter/flutter?style=social&color=white)](https://github.com/flutter/flutter/stargazers) `[Cross-Platform UI Framework]`  
    Google's flagship multi-platform UI framework written in Dart and C++. Compiles directly to ARM/x86 native machine code for iOS, Android, macOS, Windows, Linux, and Web from a single unified codebase. Employs the high-performance Impeller rendering engine for smooth 120 FPS animations without reliance on platform OEM widgets.  
@@ -150,8 +150,8 @@ Contributions from the mobile engineering community are warmly welcomed! To sugg
 
 1. 🍴 **Fork the repository** on GitHub.
 2. 🌿 **Create a new branch**: `git checkout -b feature/add-new-mobile-tool`.
-3. 📝 **Add or update the tool** in `README.md` following the established formatting, exact pricing standards, and verified star badges.
-4. 🔍 **Verify links and badges**: Ensure all URLs are active and live star badges link to `/stargazers`.
+3. 📝 **Add or update the tool** in `README.md` following the established formatting, exact pricing standards, and verified Stars_Badges.
+4. 🔍 **Verify links and badges**: Ensure all URLs are active and live Stars_Badges link to `/stargazers`.
 5. 📬 **Submit a Pull Request** with a concise description of the tool and why it adds value to the ecosystem.
 
 ---
@@ -177,3 +177,12 @@ Thank you for visiting **Awesome Mobile Development Tools**! If this curated eco
 
 - *Disclaimer*: This repository is an independently curated educational directory. Product names, logos, and brands are the property of their respective trademark holders. Mention does not constitute an endorsement.
 - *Licensing*: Distributed under the [MIT License](LICENSE).
+
+## Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Mobile-Development-Tools&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Mobile-Development-Tools_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Mobile-Development-Tools_growth.svg">
+  </picture>
+</a>
